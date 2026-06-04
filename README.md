@@ -1,4 +1,4 @@
-3X-UI - url -fsSL https://raw.githubusercontent.com/XOPYC1/sdhajd/main/3xui.sh | bash
+3X-UI - curl -fsSL https://raw.githubusercontent.com/XOPYC1/sdhajd/main/3xui.sh | bash
 
 Marzban - curl -fsSL https://raw.githubusercontent.com/XOPYC1/sdhajd/main/marzban.sh | bash
 
