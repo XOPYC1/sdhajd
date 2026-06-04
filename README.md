@@ -1,5 +1,5 @@
-curl -fsSL https://raw.githubusercontent.com/XOPYC1/sdhajd/main/3xui.sh | bash
+3X-UI - url -fsSL https://raw.githubusercontent.com/XOPYC1/sdhajd/main/3xui.sh | bash
 
-curl -fsSL https://raw.githubusercontent.com/XOPYC1/sdhajd/main/marzban.sh | bash
+Marzban - curl -fsSL https://raw.githubusercontent.com/XOPYC1/sdhajd/main/marzban.sh | bash
 
-curl -fsSL https://raw.githubusercontent.com/XOPYC1/sdhajd/main/node.sh | bash
+Marzban Node - curl -fsSL https://raw.githubusercontent.com/XOPYC1/sdhajd/main/node.sh | bash
