@@ -34,7 +34,7 @@ echo "[STEP 2] Установка 3X-UI в автоматическом режи
 export APP_VERSION="last"
 export INSTALL_PORT="2053"
 export INSTALL_USER="admin"
-export INSTALL_PASS="admin_password_change_me"
+export INSTALL_PASS="admin"
 
 # Запуск официального установщика в неинтерактивном режиме (если поддерживается)
 # либо стандартный проброс ответов по умолчанию через 'yes'
